@@ -23,7 +23,7 @@ To learn more about the background that has led to S2DM, as well as its design p
 ## Artifacts
 `S2DM` consist of the following artifacts:
 - [Data modeling guideline](docs/MODELING_GUIDE.md) - Instructions on how to model the data of a particular domain following the `S2DM` approach.
-- [Tools](tools/README.md) - A collection of scripts and utilities to facilitate schema composition, management of identifiers, amoung other functions for a seamless usage of the `S2DM` approach.
+- [Tools](src/tools/README.md) - A collection of scripts and utilities to facilitate schema composition, management of identifiers, amoung other functions for a seamless usage of the `S2DM` approach.
 
 ## Repository Structure
 
